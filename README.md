@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Alveena 👋
 
-<!--
-**alveenaaftabbb/alveenaaftabbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Data Science Student at Rutgers University
 
-Here are some ideas to get you started:
+💻 Currently Learning:
+- Java
+- Python
+- SQL
+- Data Structures
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Summer 2026 Goals:
+- Build 2 portfolio projects
+- Prepare for Physics
+- Obtain an internship
+- Improve LeetCode skills
+
+📫 Connect with me on LinkedIn
