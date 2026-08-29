@@ -1,18 +1,26 @@
-# Hi, I'm Alveena 👋
+# Hi, I'm Alveena
 
-🎓 Computer Science & Data Science Student at Rutgers University
+Computer Science & Data Science student at Rutgers University.
 
-💻 Currently Learning:
-- Java
-- Python
-- SQL
-- Data Structures
-- Machine Learning
+Interested in software engineering, data science, artificial intelligence, and machine learning.
 
-🚀 Summer 2026 Goals:
-- Build 2 portfolio projects
-- Prepare for Physics
-- Obtain an internship
-- Improve LeetCode skills
+## Technical Skills
 
-📫 Connect with me on LinkedIn
+**Languages:** Java, Python, SQL  
+**Tools:** Git, GitHub, VS Code  
+**Areas:** Data Structures, Databases, Machine Learning
+
+## Featured Projects
+
+### Pulse
+AI-powered application developed at a hackathon, earning 2nd place.
+
+### Movie Recommender
+[Description]
+
+### Music Database
+[Description]
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/alveena-aftab-5814513a2/)
