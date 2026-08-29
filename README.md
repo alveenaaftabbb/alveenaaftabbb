@@ -16,10 +16,10 @@ Interested in software engineering, data science, artificial intelligence, and m
 AI-powered application developed at a hackathon, earning 2nd place.
 
 ### Movie Recommender
-[Description]
+Built a Streamlit application that analyzes student academic and lifestyle factors to assess burnout risk and provide personalized recommendations. Visualized key risk factors through an interactive dashboard. Awarded 2nd place at a hackathon.
 
 ### Music Database
-[Description]
+Designed and implemented a relational MySQL database for a music streaming platform with artists, albums, songs, users, ratings, and genres. Created a normalized database schema with primary and foreign key constraints and developed SQL queries to analyze artists, songs, genres, ratings, and user activity.
 
 ## Connect With Me
 
